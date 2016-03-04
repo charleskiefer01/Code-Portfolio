@@ -1,0 +1,1 @@
+These projects are from my time dabbling in Android development. In the interest of file size, I've only included the source code for each app and not the auxiliary files required to actually compile and run them. 

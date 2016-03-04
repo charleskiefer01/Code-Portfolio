@@ -1,0 +1,1 @@
+These are projects created for my class on Object-Oriented Design. They show good coding practices in the form of data hiding and loose coupling.

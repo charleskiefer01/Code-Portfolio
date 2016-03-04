@@ -1,0 +1,3 @@
+This folder contains various projects that I've done for university work. They may not show the most complex features of their respective languages, but they demonstrate my progress in learning good coding practices as well as a wide variety of common object-oriented techniques. 
+
+A notable part of these is that many use the technique of 'using namespace std'. While this works for simple student projects, I understand that it is not acceptable when dealing with proper enterprise applications. My later work explicitly defines functions that use common libraries with the std:: modifier. 
