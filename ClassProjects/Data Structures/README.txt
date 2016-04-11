@@ -1,1 +1,0 @@
-My data structures class lead me to a lot of independent work to learn the material that we couldn't cover in class, but here are the projects that we completed during the semester. 
